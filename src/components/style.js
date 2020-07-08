@@ -10,6 +10,7 @@ export default StyleSheet.create({
     },
     FontG:{
       fontSize: 32,
+      textAlign: 'center'
     },
     FontDestaque: {
       color: '#F00'

@@ -2,6 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { Text, View, SafeAreaView } from 'react-native';
 
+import Mega from './components/mega/Mega';
 import FlexBoxV4 from './components/layout/FlexboxV4';
 import FlexBoxV3 from './components/layout/FlexboxV3'
 import FlexBoxV2 from './components/layout/FlexboxV2'
@@ -32,8 +33,9 @@ export default function Principal() {
   return (
     <SafeAreaView style={styles.container}>
 
-      <FlexBoxV4/>
+      <Mega quantidadeDeNumeros={7}/>
       {/*
+      <FlexBoxV4/>
       <FlexBoxV3/>
       <FlexBoxV2/>
       <FlexBoxV1/>
