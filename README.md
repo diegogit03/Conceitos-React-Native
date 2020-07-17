@@ -3,3 +3,11 @@ esse projeto foi feito com expo-cli, ou seja não é preciso ter sdk, para testa
 <pre>
   npm i -g expo
 </pre>
+Logo após instalar o expo de o seguinte comando:
+<pre>
+  expo start
+</pre>
+ou
+<pre>
+  npm start
+</pre>
