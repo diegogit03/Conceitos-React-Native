@@ -11,3 +11,11 @@ ou
 <pre>
   npm start
 </pre>
+neste projeto você, verá conceitos como:
+<ul>
+  <li>Flex-box</li>
+  <li>Renderização condicional</li>
+  <li>Componentes funcionais</li>
+  <li>Componentes por classe</li>
+  <li>Hooks</li>
+</ul>
