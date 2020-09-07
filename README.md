@@ -18,4 +18,5 @@ neste projeto você, verá conceitos como:
   <li>Componentes funcionais</li>
   <li>Componentes por classe</li>
   <li>Hooks</li>
+  <li>Iterações em estados</li>
 </ul>
